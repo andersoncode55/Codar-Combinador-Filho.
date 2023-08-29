@@ -1,0 +1,30 @@
+/* Reset de estilos padrão */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    background-color: #333;
+    color: white;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    padding: 10px;
+}
+
+.menu > ul > li {
+    margin-right: 20px;
+}
+
+.menu > ul > li > a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+}
+
+.menu > ul > li > a:hover {
+    color: orange;
+}
