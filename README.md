@@ -1,4 +1,4 @@
-<h1 align="center"> Combinador-Filho </h1>
+<h1 align="center"> Combinador-Filho. </h1>
 
 ## 🔗 Índice
 * [🎯 Objetivo](#-objetivo)
